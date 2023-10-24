@@ -25,14 +25,13 @@ A simple and elegant front-end project that displays visually appealing cards wh
 ## Setup
 
 1. Clone the repository:
-   \```
-   git clone https://github.com/WeslenLakins/expanding-cards.git
-   \```
+   
+   `git clone https://github.com/WeslenLakins/expanding-cards.git`
+   
 
 2. Navigate to the project directory:
-   \```
-   cd expanding-cards
-   \```
+   
+   `cd expanding-cards`
 
 3. Open `index.html` in your preferred browser to view the project.
 
