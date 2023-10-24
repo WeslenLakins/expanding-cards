@@ -26,7 +26,7 @@ A simple and elegant front-end project that displays visually appealing cards wh
 
 1. Clone the repository:
    \```
-   git clone [YOUR REPOSITORY LINK]
+   git clone https://github.com/WeslenLakins/expanding-cards.git
    \```
 
 2. Navigate to the project directory:
